@@ -35,7 +35,12 @@ def interact_with_gpt():
     messages = [
         {"role": "system",
          "content": ''' 
-         Is any person in the below conversation between two persons getting maniopulated give response in JSON
+         Is any person in the below conversation between two persons getting maniopulated give response in JSON. This is the sample eg. and JSON format 
+  manipulation: true,
+  manipulator: 'kartik',
+  manipulated: 'prasuk',
+  explanation: 'Kartik is trying to manipulate Prasuk into skipping classes to go to the movie by downplaying the importance of the classes and emphasizing the rarity of the tickets.',
+}
          '''},
     ]
     data = request.get_json()

@@ -52,10 +52,11 @@ io.on("connection", socket => {
       console.log("IN send gpt respionse: ", gptResponse)
       if(gptResponse.started == true){
         console.log("Started true")
+        console.log("GPT RESPONSE : ",gptResponse)
         if(gptResponse.manipulation == true){
           console.log("Manipulation true")
           sleep(300)
-          io.emit("manipulation", {manipulation: true, name: gptResponse.Person})
+          io.emit("manipulation", {manipulation: true, name: gptResponse.manipulated})
         }
       }
     });

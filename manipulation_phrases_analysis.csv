@@ -1,0 +1,279 @@
+Phrase,Count,Category
+hear what?,1,GHOSTING
+is that so?,1,GHOSTING
+that's nice.,1,GHOSTING
+"I will, in time.",1,GHOSTING
+thanks.,1,GHOSTING
+guess it slipped off.,1,GHOSTING
+that's weird.,1,GHOSTING
+anyways,1,GHOSTING
+very much indeed,1,GHOSTING
+,3,GHOSTING
+i'm going to call you soon,1,GHOSTING
+see you soon,1,GHOSTING
+until next time,1,GHOSTING
+No response,1,GHOSTING
+I will tell you later,1,GHOSTING
+...,3,GHOSTING
+have a nice day,1,GHOSTING
+what are you talking about,1,GHOSTING
+no response,1,GHOSTING
+what happened?,1,GHOSTING
+if someone moves out,1,GHOSTING
+avoid thinking,1,GHOSTING
+don't worry,1,GHOSTING
+I assure you,1,GHOSTING
+i just really don't want to go,1,GHOSTING
+sounds like a plan,1,GHOSTING
+do you think you can come,1,GHOSTING
+are you sure?,1,GASLIGHTING
+you remember,1,GASLIGHTING
+how could you forget,1,GASLIGHTING
+doubting your memory now?,1,GASLIGHTING
+being strange,1,GASLIGHTING
+You're even forgetting,1,GASLIGHTING
+i think i know your behavior better than you do.,1,GASLIGHTING
+stop lying.,1,GASLIGHTING
+you always have excuses!,1,GASLIGHTING
+stop lying. I know your tricks!,1,GASLIGHTING
+You're clueless about how to handle things.,1,GASLIGHTING
+playing tricks,1,GASLIGHTING
+doubting,1,GASLIGHTING
+guess,1,GASLIGHTING
+never know,1,GASLIGHTING
+Of course not,1,GASLIGHTING
+We've never,1,GASLIGHTING
+you never had,1,GASLIGHTING
+Never heard of,1,GASLIGHTING
+Are you inventing,1,GASLIGHTING
+I don't remember,1,GASLIGHTING
+Since when,1,GASLIGHTING
+you have always forgotten,1,GASLIGHTING
+you're just confused,1,GASLIGHTING
+But you never really know,1,GASLIGHTING
+you prefer hell,1,GASLIGHTING
+hell is worse,1,GASLIGHTING
+funny how you don't remember,1,GASLIGHTING
+don't remember that as well,1,GASLIGHTING
+you don't remember anything,1,GASLIGHTING
+every day with your forgetting things,1,GASLIGHTING
+Can't you remember anything?,1,GASLIGHTING
+Why can't you spare some memory,1,GASLIGHTING
+Don't you remember,1,GASLIGHTING
+I thought you knew,1,GASLIGHTING
+How can you forget such a thing,1,GASLIGHTING
+remember?,1,GASLIGHTING
+You used to agree with this notion,1,GASLIGHTING
+It's really worrying,1,GASLIGHTING
+I can't believe you're forgetting,1,GASLIGHTING
+"Again, I feel",1,GASLIGHTING
+You used to understand,1,GASLIGHTING
+how could you not know this?,1,GASLIGHTING
+Why can't you remember,1,GASLIGHTING
+Have you forgotten,1,GASLIGHTING
+"Seriously, your memory is concerning",1,GASLIGHTING
+mixing it up,1,GASLIGHTING
+imagining things,2,GASLIGHTING
+misremembering,1,GASLIGHTING
+incorrect,1,GASLIGHTING
+pretending not to know,1,GASLIGHTING
+can't see it,1,GASLIGHTING
+ever listen?,1,GASLIGHTING
+always found faults,1,GASLIGHTING
+always imagining,1,GASLIGHTING
+messing up,1,GASLIGHTING
+you should know that,1,GASLIGHTING
+make up things,1,GASLIGHTING
+absurd ideas,1,GASLIGHTING
+crazy theories,1,GASLIGHTING
+never seen you make,1,GASLIGHTING
+they're always,1,GASLIGHTING
+supposedly say,1,GASLIGHTING
+"unknowningly, you might have",1,GASLIGHTING
+Inform me,1,GASLIGHTING
+pile up more,1,GASLIGHTING
+beginning to see things,1,GASLIGHTING
+another lie,1,GASLIGHTING
+not thinking straight,1,GASLIGHTING
+Not that you'd understand,1,GASLIGHTING
+your perfect world,1,GASLIGHTING
+skewed perception,1,GASLIGHTING
+unlike you,1,GASLIGHTING
+distort my reality,1,GASLIGHTING
+No,1,GASLIGHTING
+it wasn't,1,GASLIGHTING
+Your memory seems to be failing,1,GASLIGHTING
+How could you get it so wrong,1,GASLIGHTING
+You're imagining things,1,GASLIGHTING
+Do you even listen properly,1,GASLIGHTING
+I think you're creating,1,GASLIGHTING
+you are just picturing it wrong,1,GASLIGHTING
+Remember it correctly,1,GASLIGHTING
+"Why?, do you think I'm not fine?",1,GASLIGHTING
+overly concerned,1,GASLIGHTING
+You're always assuming I'm in trouble,1,GASLIGHTING
+You questioning that too?,1,GASLIGHTING
+it's too big for me to handle,1,GASLIGHTING
+Thank you for your 'concern',1,GASLIGHTING
+You seem on edge,1,GASLIGHTING
+"Why, you think I have some problems?",1,GASLIGHTING
+Just checking up on you,1,GASLIGHTING
+I bet you assumed otherwise,1,GASLIGHTING
+Did you really?,1,GASLIGHTING
+Are you sure?,1,GASLIGHTING
+Perhaps,1,GASLIGHTING
+Maybe,1,GASLIGHTING
+paranoid,1,GASLIGHTING
+anxiety,1,GASLIGHTING
+creating a problem,1,GASLIGHTING
+assumption,1,GASLIGHTING
+persuaded yourself to believe,1,GASLIGHTING
+judgment,1,GASLIGHTING
+avoiding responsibility,1,GASLIGHTING
+pretending to,1,GASLIGHTING
+play the victim,1,GASLIGHTING
+Oh darling,1,LOVE BOMBING
+beauty,1,LOVE BOMBING
+admirable,1,LOVE BOMBING
+sweetheart,1,LOVE BOMBING
+perfect,1,LOVE BOMBING
+your glow,1,LOVE BOMBING
+love,1,LOVE BOMBING
+charming,1,LOVE BOMBING
+unique,1,LOVE BOMBING
+amazing,3,LOVE BOMBING
+impressive,1,LOVE BOMBING
+insightful,1,LOVE BOMBING
+attractive,1,LOVE BOMBING
+beacon of hope,1,LOVE BOMBING
+fall in love,1,LOVE BOMBING
+"seeds of trust, love",1,LOVE BOMBING
+emotionally invested,1,LOVE BOMBING
+making the world a better place,1,LOVE BOMBING
+heartbreaking,1,LOVE BOMBING
+painful truth,1,LOVE BOMBING
+painful breakup,1,LOVE BOMBING
+compassion,1,LOVE BOMBING
+bridge the gap,1,LOVE BOMBING
+gorgeous,1,LOVE BOMBING
+sweetie,1,LOVE BOMBING
+lovely,1,LOVE BOMBING
+my darling,1,LOVE BOMBING
+my love,1,LOVE BOMBING
+worth,1,LOVE BOMBING
+pulled towards,1,LOVE BOMBING
+your beauty,1,LOVE BOMBING
+leaps up,1,LOVE BOMBING
+lift my spirits,1,LOVE BOMBING
+light and joyous,1,LOVE BOMBING
+charm,1,LOVE BOMBING
+pleasing you,1,LOVE BOMBING
+deserve,1,LOVE BOMBING
+happiness,1,LOVE BOMBING
+kind and caring,1,LOVE BOMBING
+precious gift,1,LOVE BOMBING
+deep connections,1,LOVE BOMBING
+special bond,1,LOVE BOMBING
+our love,1,LOVE BOMBING
+treasure our story,1,LOVE BOMBING
+unique moments,1,LOVE BOMBING
+each moment passionately,1,LOVE BOMBING
+need to see,1,LOVE BOMBING
+true love story,1,LOVE BOMBING
+an empathetic,1,LOVE BOMBING
+deep connection,1,LOVE BOMBING
+our special spot,1,LOVE BOMBING
+perfect spot,1,LOVE BOMBING
+our little world,1,LOVE BOMBING
+you're amazing,1,LOVE BOMBING
+you always outdo,1,LOVE BOMBING
+great mindset,1,LOVE BOMBING
+you always come up,1,LOVE BOMBING
+look stunning,1,LOVE BOMBING
+run faster,1,LOVE BOMBING
+makes you happier,1,LOVE BOMBING
+always know what's best,1,LOVE BOMBING
+keep him safe,1,LOVE BOMBING
+always understand,1,LOVE BOMBING
+appreciate the beauty,1,LOVE BOMBING
+love and emotion,1,LOVE BOMBING
+adore,1,LOVE BOMBING
+absolutely love,1,LOVE BOMBING
+wonderful perspective,1,LOVE BOMBING
+deep understanding,1,LOVE BOMBING
+empathy,1,LOVE BOMBING
+value art,1,LOVE BOMBING
+unique and charming,1,LOVE BOMBING
+wonderful,1,LOVE BOMBING
+don't recall,1,DENIAL
+I don't think so.,1,DENIAL
+I don't have,1,DENIAL
+I didn't find,1,DENIAL
+I doubt that,1,DENIAL
+Are you sure,1,DENIAL
+didn't remember,1,DENIAL
+don't remember,2,DENIAL
+I don't recall,1,DENIAL
+of course not. It is never crowded.,1,DENIAL
+Practically impossible.,1,DENIAL
+"No, but they're efficient. The wait is minimum.",1,DENIAL
+"Exactly. It's so quick, you won't even notice.",1,DENIAL
+super quick service.,1,DENIAL
+never experienced a long wait,1,DENIAL
+already calling for my order,1,DENIAL
+never really,1,DENIAL
+always,1,DENIAL
+pretty sure,1,DENIAL
+can’t seem,1,DENIAL
+so sure,1,DENIAL
+complete truth,1,DENIAL
+presumes,1,DENIAL
+denying,1,DENIAL
+are you,1,DENIAL
+Just didn't,1,DENIAL
+I'm sure,1,DENIAL
+no other plans,1,DENIAL
+Isn't that enough,1,DENIAL
+Never miss anything important,1,DENIAL
+You don't have to,1,DENIAL
+As expected,1,DENIAL
+recall,1,DENIAL
+Don't recall,1,DENIAL
+Surely not,1,DENIAL
+Absolutely not,1,DENIAL
+It can't be,1,DENIAL
+Just to,1,DENIAL
+no way,1,DENIAL
+denying the truth,1,DENIAL
+Maybe it's not that bad,1,DENIAL
+Perhaps they were just discussing,1,DENIAL
+Could he have maybe been defending himself?,1,DENIAL
+Can't we assume,1,DENIAL
+Maybe they're,1,DENIAL
+They might be,1,DENIAL
+Is golf really that difficult,1,DENIAL
+I really,1,DENIAL
+Absolutely,1,DENIAL
+it's just too,1,DENIAL
+'Who',1,DENIAL
+'good',1,DENIAL
+'I',1,DENIAL
+'Everyone',1,DENIAL
+'You',1,DENIAL
+'What',1,DENIAL
+'The mayor',1,DENIAL
+'No one',1,DENIAL
+'Why',1,DENIAL
+'But',1,DENIAL
+just don't really feel it,1,DENIAL
+assert,1,DENIAL
+definitely saw you,1,DENIAL
+didn't do anything,1,DENIAL
+you're wrong,1,DENIAL
+did you really,1,DENIAL
+they're not,1,DENIAL
+i won't,1,DENIAL
+i'm not,1,DENIAL
+don't want to,1,DENIAL
+isn't broken,1,DENIAL
+i'm not watching,1,DENIAL
